@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/SCL010-Burger-Queen-v2/static/css/main.25c7fd17.chunk.css",
-    "main.js": "/SCL010-Burger-Queen-v2/static/js/main.23475077.chunk.js",
-    "main.js.map": "/SCL010-Burger-Queen-v2/static/js/main.23475077.chunk.js.map",
+    "main.css": "/SCL010-Burger-Queen-v2/static/css/main.48105775.chunk.css",
+    "main.js": "/SCL010-Burger-Queen-v2/static/js/main.b754bc4b.chunk.js",
+    "main.js.map": "/SCL010-Burger-Queen-v2/static/js/main.b754bc4b.chunk.js.map",
     "runtime-main.js": "/SCL010-Burger-Queen-v2/static/js/runtime-main.fc4421b8.js",
     "runtime-main.js.map": "/SCL010-Burger-Queen-v2/static/js/runtime-main.fc4421b8.js.map",
     "static/css/2.4e0883bb.chunk.css": "/SCL010-Burger-Queen-v2/static/css/2.4e0883bb.chunk.css",
-    "static/js/2.71aca697.chunk.js": "/SCL010-Burger-Queen-v2/static/js/2.71aca697.chunk.js",
-    "static/js/2.71aca697.chunk.js.map": "/SCL010-Burger-Queen-v2/static/js/2.71aca697.chunk.js.map",
+    "static/js/2.a4568698.chunk.js": "/SCL010-Burger-Queen-v2/static/js/2.a4568698.chunk.js",
+    "static/js/2.a4568698.chunk.js.map": "/SCL010-Burger-Queen-v2/static/js/2.a4568698.chunk.js.map",
     "index.html": "/SCL010-Burger-Queen-v2/index.html",
-    "precache-manifest.12a78085bca23ea0c5d433af426577b2.js": "/SCL010-Burger-Queen-v2/precache-manifest.12a78085bca23ea0c5d433af426577b2.js",
+    "precache-manifest.df71a71b71bd4ea5ca7d8879f9fda0e8.js": "/SCL010-Burger-Queen-v2/precache-manifest.df71a71b71bd4ea5ca7d8879f9fda0e8.js",
     "service-worker.js": "/SCL010-Burger-Queen-v2/service-worker.js",
     "static/css/2.4e0883bb.chunk.css.map": "/SCL010-Burger-Queen-v2/static/css/2.4e0883bb.chunk.css.map",
-    "static/css/main.25c7fd17.chunk.css.map": "/SCL010-Burger-Queen-v2/static/css/main.25c7fd17.chunk.css.map",
+    "static/css/main.48105775.chunk.css.map": "/SCL010-Burger-Queen-v2/static/css/main.48105775.chunk.css.map",
     "static/media/index.css": "/SCL010-Burger-Queen-v2/static/media/bg-image@2x.8a300f70.png",
     "static/media/big-burger@2x.png": "/SCL010-Burger-Queen-v2/static/media/big-burger@2x.5d900573.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fc4421b8.js",
     "static/css/2.4e0883bb.chunk.css",
-    "static/js/2.71aca697.chunk.js",
-    "static/css/main.25c7fd17.chunk.css",
-    "static/js/main.23475077.chunk.js"
+    "static/js/2.a4568698.chunk.js",
+    "static/css/main.48105775.chunk.css",
+    "static/js/main.b754bc4b.chunk.js"
   ]
 }
